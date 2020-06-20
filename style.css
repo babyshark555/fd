@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/bc/af/85/bcaf8506d42441ed60b16b7fd055c53b.jpg);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 550px;
+}
+
+.main {  
+  text-align: center;
+  width: 600px;
+  background-color: aquamarine;
+  border: 5px solid aquamarine;
+  padding: 50px;
+}
+img {
+    max-width: 100%;
+}
